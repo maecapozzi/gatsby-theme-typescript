@@ -1,6 +1,6 @@
 # gatsby-theme-typescript
 
-This is a gatsby theme that enables users to automatically configure Typescript in their gatsby projects.
+This is a gatsby theme that enables users to automatically configure Typescript in their Gatsby projects. Gatsby themes are still experimental. You can read more about them [here](https://www.gatsbyjs.org/blog/2018-11-11-introducing-gatsby-themes/).
 
 ## Usage
 
