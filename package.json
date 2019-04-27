@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-theme-typescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mae Capozzi",
+  "license": "MIT",
+  "keywords": [
+    "gatsby-theme"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "typecheck": "tsc --noEmit",
+    "typecheck:watch": "tsc --noEmit --watch"
+  },
+  "devDependencies": {
+    "gatsby": "^2.3.31",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.3.31",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "gatsby-plugin-compile-es6-packages": "^1.1.0",
+    "gatsby-plugin-page-creator": "^2.0.12",
+    "gatsby-plugin-typescript": "^2.0.13",
+    "typescript": "^3.4.5"
+  }
+}
