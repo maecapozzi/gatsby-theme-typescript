@@ -5,7 +5,7 @@ This is a gatsby theme that enables users to automatically configure Typescript 
 ## Usage
 
 ```
-yarn add gatsby-theme-typscript
+yarn add gatsby-theme-typescript
 ```
 
 And in your `gatsby-config.js` file: 
